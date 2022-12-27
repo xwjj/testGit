@@ -6,5 +6,6 @@ public class Main {
         System.out.println("hello git4");
         System.out.println("hello git6");
         System.out.println("hello git7");
+        System.out.println("新版本");
     }
 }
